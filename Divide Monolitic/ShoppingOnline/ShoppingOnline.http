@@ -1,0 +1,6 @@
+@ShoppingOnline_HostAddress = http://localhost:5043
+
+GET {{ShoppingOnline_HostAddress}}/swagger/
+Accept: application/json
+
+###
